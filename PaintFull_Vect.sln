@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintFull_Vec_withText", "PaintFull_Vect\PaintFull_Vec_withText.csproj", "{6FF456BF-95A4-4B47-A9F7-FF3F98EB6F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF456BF-95A4-4B47-A9F7-FF3F98EB6F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF456BF-95A4-4B47-A9F7-FF3F98EB6F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF456BF-95A4-4B47-A9F7-FF3F98EB6F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF456BF-95A4-4B47-A9F7-FF3F98EB6F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8353A07-EFA8-4205-8FD9-A5E415B93C26}
+	EndGlobalSection
+EndGlobal
